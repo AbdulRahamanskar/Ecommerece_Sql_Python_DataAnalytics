@@ -12,7 +12,7 @@ payments.csv,
 sellers.csv,
 
 process that followed
-1) I have used python to dumb csv file into mysql  
+1) I have used python to dumb csv file into mysql and attached code too
 2) I have installes mysql server and mysql workbench
 3) I have performed basic to intermediated sql and python to perform basic to intermediate data analytics skills
 4) In this project I have basic ecommerce data analytics have performed
