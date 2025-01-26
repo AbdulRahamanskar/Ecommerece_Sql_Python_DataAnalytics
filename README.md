@@ -16,4 +16,5 @@ process that followed
 2) I have installes mysql server and mysql workbench
 3) I have performed basic to intermediated sql and python to perform basic to intermediate data analytics skills
 4) In this project I have basic ecommerce data analytics have performed
-5) used pandas, numpy, matplotlib,seaborn, 
+5) used pandas, numpy, matplotlib,seaborn,
+6) used jupyter notebook to perform data anaytics
